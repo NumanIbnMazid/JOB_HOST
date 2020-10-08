@@ -1,2 +1,2 @@
 # JOB_HOST
-Job Portal Based App (Django + Flutter)
+Job Portal App (Django + Flutter)
